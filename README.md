@@ -15,5 +15,7 @@ To use the application, simply open the index.html file in your web browser. Ent
 File Overview
 
 index.html: The main HTML file containing the structure of the application.
+
 style.css: Custom CSS file for additional styling (if any).
+
 script.js: JavaScript file containing the logic for fetching Wikipedia articles and updating the DOM with results.
