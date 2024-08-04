@@ -16,6 +16,8 @@ File Overview
 
 index.html: The main HTML file containing the structure of the application.
 
-style.css: Custom CSS file for additional styling (if any).
+style.css: Custom CSS file for additional styling.
 
 script.js: JavaScript file containing the logic for fetching Wikipedia articles and updating the DOM with results.
+
+<img src="https://github.com/ramnathnayak07/Wiki-Search/blob/main/home%20page.png" width="1000" height="550">
