@@ -20,4 +20,6 @@ style.css: Custom CSS file for additional styling.
 
 script.js: JavaScript file containing the logic for fetching Wikipedia articles and updating the DOM with results.
 
+<a href="https://ramnathnayak07.github.io/Wiki-Search/">Click Here</a><br>
+
 <img src="https://github.com/ramnathnayak07/Wiki-Search/blob/main/home%20page.png" width="1000" height="550">
