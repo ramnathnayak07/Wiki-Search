@@ -1,5 +1,5 @@
 # Wiki Search
-Wiki Search is a simple web application that allows users to quickly search Wikipedia articles by their valid names. The project is built using HTML, CSS, and JavaScript, and it leverages the Tailwind CSS framework for styling.
+Wiki Search is a simple web application that allows users to quickly search Wikipedia articles by their valid names. The project is built using HTML, CSS, JavaScript, and it leverages the Tailwind CSS framework for styling.
 
 Features
 
