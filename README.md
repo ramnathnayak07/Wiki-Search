@@ -22,4 +22,4 @@ script.js: JavaScript file containing the logic for fetching Wikipedia articles 
 
 <a href="https://ramnathnayak07.github.io/Wiki-Search/">Click Here</a><br>
 
-<img src="https://github.com/ramnathnayak07/Wiki-Search/blob/main/home%20page.png" width="1000" height="550">
+<img width="900" src="https://github.com/ramnathnayak07/Wiki-Search/blob/main/home%20page.png">
